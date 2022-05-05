@@ -14,7 +14,7 @@ Herhangi bir sorunuz olursa   elchâvo.py#0009(838931132581281813) - shavie#0247
 
 Buda Çalıştığında Dair Ufacıcık Bir Ss Olsn
 
-#Peki nedir pm2 botun diğer botlardan farkları?
+# Peki nedir pm2 botun diğer botlardan farkları?
 
 1-) Botta herhangi bir hata oluştuğu zaman bot kendini otomatikmen yeniden başlatmaktadır.
 
