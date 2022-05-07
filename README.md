@@ -1,4 +1,4 @@
-# PM2 Guard
+# PM2 Guard Yakında :)
 Projeyi indirdikten sonra cmd terminalini açıp npm i pm2 -g yazıp indirin.
 
 Cmd terminalini açıp C:\Users\pcismi\Desktop\Klasörismi yolu ile dizini gösterin,gösterdikten sonra npm i yazıp modülleri indirin.
