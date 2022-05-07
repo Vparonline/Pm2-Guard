@@ -1,7 +1,7 @@
 {
     "name": "elcavopy",
     "version": "1.0.0",
-    "description": "Gizemli bir discord botu.",
+    "description": "allah1",
     "scripts": {
       "test": "echo 'Error: no test specified' && exit 1",
       "start": "pm2-runtime start ecosystem.config.js --env production"
